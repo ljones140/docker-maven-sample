@@ -3,7 +3,7 @@ name: Build Image Upload SBOM
 on:
   workflow_dispatch:
   push:
-    branches: ["main"]
+    branches: ["master"]
 
 jobs:
   image-build-SBOM-upload:
