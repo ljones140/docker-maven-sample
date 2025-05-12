@@ -9,7 +9,7 @@ Container used for packaging (executable): openjdk:11-jre-slim
 Using spring initializer to generate a demo app https://start.spring.io/
 
 ## Create a multi-stage build Dockerfile
-
+foo foo foo
 ```shell
 #
 # BUILD STAGE
